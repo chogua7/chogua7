@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🌱 All the in's and out's about GitHub
+### ⚡ I love playing jeopardy 
 
 <!--
 **chogua7/chogua7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
